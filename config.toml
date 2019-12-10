@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Jacquie Grindrod"
 theme = "personal-web"
 copyright="© Jacquie Grindrod"
+publishDir = "gogococo.github.io"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true

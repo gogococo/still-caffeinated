@@ -4,6 +4,7 @@ description: How to define your portfolio in FrontMatter
 date: "2019-05-02T19:49:05+02:00"
 draft: false
 ---
+This is a test blog post!
 
 Here are some details about the portfolio settings.
 
