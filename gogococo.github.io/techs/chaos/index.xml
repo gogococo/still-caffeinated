@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaos on Jacquie Grindrod</title>
+    <link>https://still-caffeinated.dev/techs/chaos/</link>
+    <description>Recent content in Chaos on Jacquie Grindrod</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Jacquie Grindrod</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://still-caffeinated.dev/techs/chaos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PolyHack To</title>
+      <link>https://still-caffeinated.dev/portfolio/polyhack-to/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://still-caffeinated.dev/portfolio/polyhack-to/</guid>
+      <description>PolyHack Toronto Meetup - May 1st, 2019</description>
+    </item>
+    
+  </channel>
+</rss>
